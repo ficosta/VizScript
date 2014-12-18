@@ -1,0 +1,9 @@
+site_name: Viz Script
+theme: readthedocs
+pages:
+        - [index.md, Index]
+        - [introduction.md, Introduction]
+        - [language_overview.md, Language OverView]
+        - [callback_procedures.md, Callback Procedures]
+        - [alpha.md, Alpha]
+        - [base.md, base]
